@@ -1,2 +1,2 @@
 #!/bin/bas
-tail /etc/passwd
+tail+ /etc/passwd
