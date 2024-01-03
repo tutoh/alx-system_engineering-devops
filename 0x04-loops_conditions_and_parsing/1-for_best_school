@@ -5,3 +5,7 @@ for (( i=0; i<10; i++ ))
 do
   echo "Best School"
 done
+<<<<<<< HEAD
+=======
+
+>>>>>>> f0f910a9273a9f4d908269e8ed57294d4dd9b654
